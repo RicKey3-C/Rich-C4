@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rich-C4
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning C Programing
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email at 1604120019@qq.com
 
